@@ -1,7 +1,7 @@
 import random
 
 print("10 Easy counting for kids")
-print("<<<<<<<<<<<>>>>>>>>>>>>>>\n")
+print("<<<<<<<<<<<>>>>>>>>>>>>>>")
 for number in range(10):
     fnum = random.randint(1, 100)
     snum = random.randint(1, 100)
