@@ -9,7 +9,7 @@ for number in range(10):
         task = str(fnum)+" + "+ str(snum)+" = "
         answer = int(input(task))
         if answer == (fnum + snum):
-            print("Exellent!")
+            print("Excellent!")
             break
         else:
             print("Almost there, try more!")
